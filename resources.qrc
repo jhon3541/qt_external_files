@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/text">
+        <file>hangman.txt</file>
+    </qresource>
+</RCC>

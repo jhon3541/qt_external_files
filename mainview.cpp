@@ -58,7 +58,7 @@ void MainView::loadPhrases()
 
     if(!iFile.open(QIODevice::ReadOnly | QIODevice::Text)){
 
-        qWarning() << "Error opening file\n";
+        qWarning() << "Error opening file e\n";
         exit(EXIT_FAILURE);
     }
 
